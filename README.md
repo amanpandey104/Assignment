@@ -1,1 +1,1 @@
-This is for IIHT Assignments
+This is for IIHT Assignments of Git Course
